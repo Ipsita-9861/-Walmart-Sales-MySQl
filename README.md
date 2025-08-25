@@ -5,8 +5,12 @@ This dataset provided contains detailed transaction data, including customer dem
 
 # Repository Structure:
 
-Datasets: https://github.com/Ipsita-9861/-Walmart-Sales-MySQl/blob/main/Walmartsales%20Dataset.xlsx <be />
+Datasets: https://github.com/Ipsita-9861/-Walmart-Sales-MySQl/blob/main/Walmartsales%20Dataset.xlsx <br />
 Project Details: https://github.com/Ipsita-9861/-Walmart-Sales-MySQl/blob/main/Project%20Details.pdf
+
+# Brief overview:
+
+This project provided a Walmart sales dataset that contains transaction details across  multiple branches, capturing key sales metrics and customer information. Below are the primary features of the dataset.
 
 # Key Insights:
 
@@ -47,6 +51,27 @@ Time: The time the transaction occurred <br />
 . Rating: Customer satisfaction rating<br />
 
 . Customer ID: Unique identifier for each customer<br />
+
+# DATA CHARACTERISTICS:-
+
+Time Frame: The dataset covers transactions from January to March 2019.<br />
+
+. Geographical Scope: Transactions are recorded across three key cities: Yangon, Naypyitaw, and Mandalay<br />
+
+. Sales pattern: Captures a variety of product categories and payment methods to reflect customer preferences<br />
+
+
+# Potential Insights:-
+
+. Sales trends and growth rates.<br />
+
+. Customer behaviour and segmentation<br />
+
+. Profitability across product lines<br />
+
+. Transaction timing pattern.<br />
+
+
 
 
 
